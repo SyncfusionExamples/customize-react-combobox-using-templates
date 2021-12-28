@@ -1,6 +1,6 @@
 # Customize the React ComboBox Using Templates
 
-A quick-start project that helps you to customize the ComboBox list items, values, header, and footer using templates.
+A quick-start project that helps you to customize the ComboBox list items, header, and footer using templates.
 
 Documentation: https://ej2.syncfusion.com/react/documentation/combo-box/templates/
 
