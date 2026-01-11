@@ -1,14 +1,16 @@
 # Customize the React ComboBox Using Templates
 
-A quick-start project that helps you to customize the ComboBox list items, header, and footer using templates.
+A quick-start project that helps you to customize the ComboBox list items, header, and footer using templates.This project contains a few of the control’s basic features, like ComboBox list items, header, and footer using templates.
 
-Documentation: https://ej2.syncfusion.com/react/documentation/combo-box/templates/
+Refer to the following documentation to learn about the React ComboBox component: 
+https://ej2.syncfusion.com/react/documentation/combo-box/templates/
 
-Online examples: https://ej2.syncfusion.com/react/demos/#/bootstrap5/combo-box/template
+Check out this online example of the React ComboBox component: 
+https://ej2.syncfusion.com/react/demos/#/bootstrap5/combo-box/template
 
 ## Project prerequisites
 
-Make sure that you have the latest versions of NodeJS and Visual Studio Code in your machine before starting to work on this project.
+Make sure that you have the compatible versions of [Visual Studio Code](https://code.visualstudio.com/download ) and [NodeJS](https://nodejs.org/en/download) or later version in your machine before starting to work on this project..
 
 ### How to run this application?
 
